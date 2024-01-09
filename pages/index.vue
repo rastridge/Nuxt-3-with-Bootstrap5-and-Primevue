@@ -9,7 +9,9 @@
 		<img src="/luke.jpeg" class="rounded img-fluid" />
 	</div>
 </template>
+
 <script></script>
+
 <style scoped>
 	img {
 		margin-bottom: 1rem;
