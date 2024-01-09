@@ -1,6 +1,6 @@
 ﻿import mysql from 'mysql2/promise'
 
-const TABLE_NAME = 'inbrc_accounts_play'
+const TABLE_NAME = 'inbrc_accounts'
 const config = useRuntimeConfig()
 
 async function doDBQuery(sql, inserts) {
