@@ -16,7 +16,7 @@
 					<span class="navbar-toggler-icon"></span>
 				</button>
 				<nuxt-link class="navbar-brand" to="/"
-					>Nuxt 3 with Bootstrap5 and Primevue</nuxt-link
+					>Change in Branch Nuxt 3 with Bootstrap5 and Primevue</nuxt-link
 				>
 
 				<div class="collapse navbar-collapse" id="navbarSupportedContent">
